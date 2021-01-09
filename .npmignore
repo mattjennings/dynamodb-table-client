@@ -1,0 +1,5 @@
+src
+test
+__mocks__
+.github
+tsconfig.json
